@@ -1,4 +1,4 @@
-# The Coding train's p5.js A* program converted into Python
+# The Coding train's p5.js A* program in Python
 
 import sys
 import random
